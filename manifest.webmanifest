@@ -1,0 +1,10 @@
+{
+  "name": "نبراس الحسين",
+  "short_name": "نبراس الحسين",
+  "start_url": "./",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "ar",
+  "theme_color": "#08090b",
+  "background_color": "#08090b"
+}
